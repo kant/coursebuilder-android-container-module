@@ -1,7 +1,7 @@
 # coursebuilder-android-container-module
 
 This module allows your users to write Android code on the web and get results
-in their browser, without intalling or configuring anything. It is not an
+in their browser, without installing or configuring anything. It is not an
 official Google product.
 
 The system is comprised of three parts: a client, which renders UI for users and
